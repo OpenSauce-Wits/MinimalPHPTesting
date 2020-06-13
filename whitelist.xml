@@ -1,0 +1,8 @@
+<filter>
+	<whitelist processUncoveredFilesFromWhitelist="true">
+		<directory suffix=".php">classes</directory>
+		<!--<exclude>
+			<file></file>
+		</exclude>-->
+	</whitelist>
+</filter>
